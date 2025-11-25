@@ -1,0 +1,25 @@
+# Streamlit and Web Framework
+streamlit==1.29.0
+
+# Azure OpenAI and AI
+openai==1.6.1
+
+# Database
+psycopg2-binary==2.9.9
+pymongo==4.6.1
+
+# PDF Generation
+reportlab==4.0.7
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Utilities
+python-dotenv==1.0.0
+
+# Date and Time
+python-dateutil==2.8.2
+
+# Additional utilities
+requests==2.31.0
